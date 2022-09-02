@@ -1,0 +1,12 @@
+Package: pkgdown4gdpr
+Type: Package
+Title: Providing changes to the default pkgdown theme without the use of a CDN to be GDPR compliant
+Version: 0.1.0
+Author: Martin Stingl <rstats.tips@gmail.com>
+Maintainer: Martin Stingl <rstats.tips@gmail.com>
+Description: The standard pkgdown theme uses files from a CDN (e.g. cloudflare ). 
+    This may be a problem regarding to GDPR if the user hasn't given consent yet.
+    So this packages provides changes to the standard theme with all files locally hosted.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
