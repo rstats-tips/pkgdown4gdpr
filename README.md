@@ -2,7 +2,7 @@
 
 [pkgdown](https://pkgdown.r-lib.org) is a R package to generate a website with the documentation of an R package.
 
-Unfortunately pkgdown uses CDNs (such as cloudflare) and imports fonts directly from other resources in the internet.
+Unfortunately, pkgdown uses CDNs (such as cloudflare) and imports fonts directly from other resources in the internet.
 
 Due to GDPR it's illegal in Germany to do this without prior consent by the user. (See German news at <https://www.golem.de/news/landgericht-muenchen-einbindung-von-google-fonts-ist-rechtswidrig-2202-162826.html>)
 
